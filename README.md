@@ -1,2 +1,3 @@
-# CursoDeJS
- Curso de JS pelo curso em video
+# Curso de JavaScript :computer:
+ Curso de JS pelo curso em vídeo
+
